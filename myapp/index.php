@@ -5,7 +5,7 @@
     </head>
     <body>
         <p>
-            Hello Cybage Team, Today is <?= date('l \t\h\e jS') ?>.
+            Hello EDGE by Ascential Team, Today is <?= date('l \t\h\e jS') ?>.
         </p>
     </body>
 </html>
